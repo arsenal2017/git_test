@@ -101,6 +101,7 @@
 		7A52A459215505C400DCDFC7 /* git_study */ = {
 			isa = PBXGroup;
 			children = (
+				7A52A48F21562BEC00DCDFC7 /* folder1 */,
 				7A52A45A215505C400DCDFC7 /* AppDelegate.h */,
 				7A52A45B215505C400DCDFC7 /* AppDelegate.m */,
 				7A52A45D215505C400DCDFC7 /* ViewController.h */,
@@ -130,6 +131,13 @@
 				7A52A480215505C500DCDFC7 /* Info.plist */,
 			);
 			path = git_studyUITests;
+			sourceTree = "<group>";
+		};
+		7A52A48F21562BEC00DCDFC7 /* folder1 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = folder1;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
