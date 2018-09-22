@@ -9,7 +9,7 @@
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
-@property (nonatomic, strong) NSArray * test;
+//@property (nonatomic, strong) NSArray * test;
 
 @end
 
