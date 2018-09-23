@@ -39,6 +39,7 @@
 -(void)test9
 {
     NSLog(@"test9");
+    NSLog(@"dev");
 }
 //dev FUCK FUCK de branche
 //dev
