@@ -34,6 +34,7 @@
 -(void)test8
 {
     NSLog(@"test");
+}
 -(void)test9
 {
     NSLog(@"test9");
