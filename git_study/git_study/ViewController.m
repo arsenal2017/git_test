@@ -35,6 +35,7 @@
 {
     NSLog(@"test");
     NSLog(@"23424234");
+    NSLog(@"a");
 }
 -(void)test9
 {
