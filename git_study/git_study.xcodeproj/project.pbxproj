@@ -51,7 +51,7 @@
 		7A52A47A215505C500DCDFC7 /* git_studyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = git_studyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7A52A47E215505C500DCDFC7 /* git_studyUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = git_studyUITests.m; sourceTree = "<group>"; };
 		7A52A480215505C500DCDFC7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7A52A4902157792300DCDFC7 /* test.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = test.h; sourceTree = "<group>"; };
+		7A52A49221577B7F00DCDFC7 /* test2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = test2.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,7 +112,7 @@
 				7A52A465215505C400DCDFC7 /* LaunchScreen.storyboard */,
 				7A52A468215505C400DCDFC7 /* Info.plist */,
 				7A52A469215505C400DCDFC7 /* main.m */,
-				7A52A4902157792300DCDFC7 /* test.h */,
+				7A52A49221577B7F00DCDFC7 /* test2.h */,
 			);
 			path = git_study;
 			sourceTree = "<group>";
