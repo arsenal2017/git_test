@@ -46,6 +46,10 @@
 {
     NSLog(@"test10");
 }
+-(void)test12
+{
+    NSLog(@"test12");
+}
 //dev FUCK FUCK de branche
 //dev
 //master
