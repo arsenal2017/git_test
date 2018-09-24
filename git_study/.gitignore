@@ -1,0 +1,101 @@
+# Xcode
+#
+# gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
+
+## Build generated
+build/
+DerivedData/
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+ignore/*
+.DS_Store
+=======
+ignore/
+*.DS_Store
+>>>>>>> d95ed0e6a9325254f975394198f80d3ce38cd186
+=======
+ignore/
+<<<<<<< HEAD
+=======
+
+ignore/*
+.DS_Store
+>>>>>>> developRemote
+=======
+*.DS_Store
+>>>>>>> fe8eb2d4ada6314cb13b628b7c635e4f68112a6d
+>>>>>>> dengkaiL
+
+## Various settings
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+
+## Other
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+
+## Obj-C/Swift specific
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# CocoaPods
+#
+# We recommend against adding the Pods directory to your .gitignore. However
+# you should judge for yourself, the pros and cons are mentioned at:
+# https://guides.cocoapods.org/using/using-cocoapods.html#should-i-check-the-pods-directory-into-source-control
+#
+# Pods/
+
+# Carthage
+#
+# Add this line if you want to avoid checking in source code from Carthage dependencies.
+# Carthage/Checkouts
+
+Carthage/Build
+
+# fastlane
+#
+# It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
+# screenshots whenever they are needed.
+# For more information about the recommended setup visit:
+# https://docs.fastlane.tools/best-practices/source-control/#source-control
+
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Code Injection
+#
+# After new code Injection tools there's a generated folder /iOSInjectionProject
+# https://github.com/johnno1962/injectionforxcode
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+iOSInjectionProject/
+=======
+=======
+>>>>>>> dengkaiL
+iOSInjectionProject/
+xcshareddata
+Boxing.xcodeproj/project.xcworkspace/xcuserdata
+Boxing.xcodeproj/xcuserdataPods/Pods.xcodeproj/project.pbxproj
+<<<<<<< HEAD
+Hyphenate.framework
+=======
+<<<<<<< HEAD
+>>>>>>> d95ed0e6a9325254f975394198f80d3ce38cd186
+=======
+>>>>>>> dengkaiL
+>>>>>>> 65968482798d9a6b293ed61cfe35330c0d827db6
